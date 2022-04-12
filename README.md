@@ -6,4 +6,4 @@
 # contact
 - [Facebook](https://web.facebook.com/profile.php?id=100008786231232)
 - [Instagram](https://www.instagram.com/teerut_1t/)
-- Email : teerutsr@gmail.com
+- Email : teerutdev@gmail.com
