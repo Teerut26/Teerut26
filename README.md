@@ -14,7 +14,7 @@
 
 ### WakaTime
 
-<figure><embed src="https://wakatime.com/share/@c8d96fb5-8891-4032-89a1-0ab5747b03ce/54e891da-214b-42b0-826a-848bf2f10f62.svg"></embed></figure>
+![enter image description here](https://wakatime.com/share/@c8d96fb5-8891-4032-89a1-0ab5747b03ce/efad9e89-3138-481c-9b22-dcc8bb377c4b.png)
 
 
 ## Github Stats  
