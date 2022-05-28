@@ -12,6 +12,10 @@
 
 <br/>  
 
+### WakaTime
+
+<figure><embed src="https://wakatime.com/share/@c8d96fb5-8891-4032-89a1-0ab5747b03ce/54e891da-214b-42b0-826a-848bf2f10f62.svg"></embed></figure>
+
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Teerut26&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
