@@ -4,7 +4,7 @@
 - 👨‍🎓 Computer Science student at Kasetsart University  
   
 
-- 👦Teerut Srithongdee 📍Thailand  
+- 👦 Teerut Srithongdee 📍Thailand  
   
 
 - 🎉 My Birthday 22 July 2003  
