@@ -7,9 +7,6 @@
 - 👦 Teerut Srithongdee 📍Thailand  
   
 
-- 🎉 My Birthday 22 July 2003  
-  
-
 <br/>  
 
 ### WakaTime
